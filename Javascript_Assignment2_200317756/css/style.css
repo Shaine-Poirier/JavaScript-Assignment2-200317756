@@ -1,0 +1,19 @@
+/* Author: Shaine Poirier
+* Date: 2023-10-14
+ */
+
+/*Style the main body of the website. Centre all of it */
+body{
+    margin: 0;
+    background-color: #f0f0f0;
+    color: black;
+    text-align: center;
+}
+
+/*Make a header section with a gradient background */
+header{
+    background: linear-gradient(to right, #FFD700, #FF6347);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
